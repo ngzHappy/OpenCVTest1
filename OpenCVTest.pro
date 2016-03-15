@@ -6,6 +6,8 @@ TEMPLATE = subdirs
 
 SUBDIRS += Utility
 SUBDIRS += BaseTest
+SUBDIRS += BaseTest1
+SUBDIRS += BaseTest2
 SUBDIRS += Filter2DTest
 SUBDIRS += AddWeighted
 SUBDIRS += MergeSplit
