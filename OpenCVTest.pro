@@ -14,5 +14,5 @@ SUBDIRS += MergeSplit
 SUBDIRS += ROI
 SUBDIRS += CalcHist
 SUBDIRS += LUT
-
+SUBDIRS += EqualizeHist
 
