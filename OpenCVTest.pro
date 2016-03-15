@@ -13,6 +13,6 @@ SUBDIRS += AddWeighted
 SUBDIRS += MergeSplit
 SUBDIRS += ROI
 SUBDIRS += CalcHist
-
+SUBDIRS += LUT
 
 
