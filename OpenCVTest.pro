@@ -12,6 +12,7 @@ SUBDIRS += Filter2DTest
 SUBDIRS += AddWeighted
 SUBDIRS += MergeSplit
 SUBDIRS += ROI
+SUBDIRS += CalcHist
 
 
 
